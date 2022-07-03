@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "standard",
+    "@remix-run/eslint-config",
+    "@remix-run/eslint-config/node"
+  ],
+  "rules": {
+    "react-hooks/rules-of-hooks": "off"
+  }
+}
