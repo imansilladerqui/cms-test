@@ -10,7 +10,7 @@ export default function Tools () {
   const { tools } = useLoaderData()
   return (
     <div>
-      <h2>Home</h2>
+      <h2>Tools</h2>
       <nav>
         <ul>
           <li>

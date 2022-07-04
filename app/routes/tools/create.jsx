@@ -31,9 +31,6 @@ export default function createTool () {
     <>
       <h2>Create Tool</h2>
       <Form method="POST" disabled={isSubmitting}>
-        <p>
-          <strong>This is just a test form. It doesn't do anything.</strong>
-        </p>
         <div>
           <p>
             <label htmlFor="name">Name</label>
